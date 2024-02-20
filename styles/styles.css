@@ -18,5 +18,8 @@ button {
   background-color: rgba(160, 192, 17, 0.95);
 }
 
+.my-btn:hover{
+    background-color: rgb(244, 188, 56);
+}
 
 /* comments*/
